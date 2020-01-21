@@ -1,12 +1,10 @@
 .idea
 ./logs
-./code/*.class
-./code/.idea
-./code/code/.idea
-./code/code/*.class
 *.DS_store
 /build
 /frontier
 .gradle
 /logs/*.log
 .idea/*.xml
+
+target/*
