@@ -1,6 +1,9 @@
 .idea
 ./logs
 ./code
+./code/.idea
+./code/code/.idea
+./code/code/*.class
 *.DS_store
 /build
 /frontier
