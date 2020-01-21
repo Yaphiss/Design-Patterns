@@ -1,6 +1,6 @@
 .idea
 ./logs
-./code
+./code/*.class
 ./code/.idea
 ./code/code/.idea
 ./code/code/*.class
